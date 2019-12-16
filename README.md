@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/yammgitpy/547d85e6-34cb-4c81-9dae-b8ec2aa74cf1/eb5335c3-38d6-45df-88cd-7788dd9cbb9b/_apis/work/boardbadge/8611a7e1-4925-454b-adfc-d02e2cbd7b6b)](https://dev.azure.com/yammgitpy/547d85e6-34cb-4c81-9dae-b8ec2aa74cf1/_boards/board/t/eb5335c3-38d6-45df-88cd-7788dd9cbb9b/Microsoft.RequirementCategory)
